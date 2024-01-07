@@ -20,6 +20,15 @@ This document contains information of active radar systems/products/companies th
 
 #### [C400 Series Coastal Security Radars](https://www.blighter.com/products/c400-series-coastal-security-radars/)
 
+### Hensoldt (GE)
+#### Spexer Series
+X-Band Solid State Transceiever with Doppler Processing, Tracking and Classification
+##### [Spexer 2000 3D MKII](https://www.hensoldt.net/products/radar-iff-and-datalink/spexer-2000-3d-mkii-surveillance-radar-for-c-uav-and-critical-asset-protection/)
+##### [Spexer 600](https://www.hensoldt.net/ground/spexer-600-aesa-ground-based-surveillance-radar/)
+##### [Spexer 500](https://www.hensoldt.net/products/radar-iff-and-datalink/spexer-500/)
+##### [Spexer 360](https://www.hensoldt.net/products/radar-iff-and-datalink/spexer-360/)
+asdasd
+
 ### Robin Radar Systems (ND)
 #### [IRIS](https://www.robinradar.com/iris-counter-drone-radar)
 #### [ELVIRA](https://www.robinradar.com/elvira-anti-drone-system)

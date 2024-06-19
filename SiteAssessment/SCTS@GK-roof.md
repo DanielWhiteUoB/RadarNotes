@@ -38,14 +38,26 @@ This revealed many DVB-T peaks at -57dBm, 15-20dB above the noise floor. This ac
 
 Comparing the peaks of "GKroof Ref. Dipole 600-800MHz", it appears that not all of the expected signals are being measured. (Perform a full peak comparison using better sweeps and antenna later.) Perhaps the wikipedia article is out of date.
 
-### Repairing and Characterising Yagi-Uda (2024-06-18...)
+### Repairing and Characterising Yagi-Uda (2024-06-18--19)
 Found Large Yagi-Uda in old Gisbert-Kapp stock room. 
 Required repairs or updates required: 
 
-- [ ] Find F-Type connector to N- and SMA type. **Characterised Loss is = ...**
-- [ ] Re-attach reflector.
-- [ ] Align teeth uniformly. **Characterised BandWidth = ...**
+- [x] Find F-Type connector to N- and SMA type. 
+- [x] Re-attach reflector.
+- [x] Align teeth uniformly. 
 
-== TODO | Place all charactisation of components into a separate document== 
+== TODO | Place all charactisation of components into a separate document ==
+==(Cable, adaptors, antennas,)==
 
+![vert antenna.jpg](../Images/VecNAnalyser/YagiUda/vert antenna.jpg)![vert vna.jpg](../Images/VecNAnalyser/YagiUda/vert vna.jpg)
+
+The return loss, $S_{11} = (-)5 - 15$ dB, is acceptable in Alan's experience. 
+**==TODO | Check why the optimum return loss is dB(75$\Omega$ / 50$\Omega$ ~= 14dB maximum loss from termination mismatch) ==** 
+
+Next task is to characterise the gain of the antenna, wrt _dBd_, by finding the increase in signal level when the reference dipole antenna is replaced with the Yagi-Uda. 
+...
+
+### Understanding and Operating the FSH6 (with PreAmp)
+To ensure that we are able to measure signals at the site of Kryoneri, the use of a pre-amp is very useful to ensure the signals will be detected and maximised if they are present. We will be using a preamp for both reference and surveillance channels for the radar, so the same should be done in this initial case of ambient signal characterisation. I need to ensure the FSH6 **indeed possesses** a pre-amplifier, and to establish what the increase in gain is, if this is toggleable, and with a collection of antenna.
+...
 [^1]: Images show antenna in vertical mode. Horizontal orientation was attempted and did not improve results noticably. The tripod requires a fix to hold it upright in horizontal. Need to fix for the fixed-up Yagi-Uda to try next.

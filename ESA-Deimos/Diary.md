@@ -74,3 +74,51 @@ Reach out to Acounts Payable as the first port of call.
 - [ ] Eg Measurement
 
 40km < distance, 
+
+# July 2024
+## 18th July, Thursday | 1st Bi-Weekly Consortium Meeting
+First of the Bi-Weekly meetings about to take place.
+The first (v1.0) version of the technial baseline was shared feedback was:
+
+### Tasks
+Rename, Hardware requirements -> Hardware components 
+Before carfeul with "requirement"
+
+Don't state that it actually arrived
+
+This will be done post a site visit, assess the exact need. PBF and LNA 
+
+APPROXIMATIONS ARE GOING TO REFINED IN THE FUTURE
+_________
+mEMORANDUM, some etb information in the next milestone, maybe 8th - not sure but will submit document
+3.1-2 (Varified Detail Design).  4.1.2 Implementation and Varification plan
+
+ESA may say, we need to check withthem  before physical doing somehting.
+
+Output 5 - physical work 
+
+Meeting at 3, July 1st.
+
+## 26th July, Friday | Weekly meeting
+Barrety Power for USRP ,
+14Bits * 16MHz  = 
+* 2
+### October 
+* More body into overview we present before
+* More aobut detail how the downconversion happens
+* Signal processing, cfar in depth.
+* SNR, PD / PFA
+* Joe and Ali has done simulation.
+* Antenna -> ADC - Basic Equations -> Range -Dpppler map, SNR -> PD and Pfa
+* Weekly update.
+
+## 1st August, Thursday | Mike back!
+
+To send out copmplete rid on monday
+
+  Early septemer - present etb - get feedback. (PDR PM3)
+  End of september, submit detailed deisgn (26th) - 2 weeks later DDR (10th Oct)
+  Implementation + test_varification  plan - hand in hand 
+  How to test requiremnest for the subsystem, tables - each table check everything, and how to test. 
+  2 separate docs
+  

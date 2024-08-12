@@ -1,0 +1,2 @@
+Performed "Channel Power" Measurement of the SCTS signals at center frequencies: 
+Before any measurements, the antenna fell over, breaking the front right director off. Appear to have damaged the F-type to BNC adaptor in the process.

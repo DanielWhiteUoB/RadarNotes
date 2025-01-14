@@ -87,3 +87,6 @@ OPTION B
 - [ ] Buy a SFP+ transeiver to ping device, and setup matlab.
 - [ ] Check if 10G ethernet input is possible on my laptop (ethernet or usb-c aka thunderbolt 3, or via docking station)
 
+## Construction
+
+The 

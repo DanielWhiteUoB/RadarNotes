@@ -120,5 +120,44 @@ To send out copmplete rid on monday
   End of september, submit detailed deisgn (26th) - 2 weeks later DDR (10th Oct)
   Implementation + test_varification  plan - hand in hand 
   How to test requiremnest for the subsystem, tables - each table check everything, and how to test. 
-  2 separate docs
-  
+  2 separate docs 
+   
+# 9th September | Post Summer
+- [ ]  Order a new Garmin
+- [x]  Did Nuoshi Receipt
+- [x]  New Usb-c PSU for laptop #
+- [x]  Another Oscillator
+- [ ]  Pigeion Rings
+    - [ ]  Temp password for rings
+## Detailed Design Review
+Questions I have:
+- The BFP Joe used will not fully attenuate the other channels (650MHz). The LNA also will amplify these signals. Is this sufficient, or does an additional low pass filter need to remove higher channels. Can the other channels be filtered out in DSP?
+
+ToDos:
+-[] Risk Assessment (technical) , to maybe be incorperated into powerpoint. 
+-[] koint trials at UoB
+
+-[] uobradar -  is there any email validation required
+
+# 24 September
+Pre DDR Meeting
+mention ntergration
+demonstrating can detect
+if they pusth - what value?
+then can sent warnings to the ir system. (queueing the continuous zoom functionality)
+
+## Meeting 24th Milestone
+### DDR
+UHF Siwtch for multiple antenna directions
+Andrea to check if offline only or also online
+### VIP
+...
+
+### points ot take home
+online or off line - check workpagckages - andrea o check him self
+ADS-B
+mqtt format
+BONN Conference
+
+
+
